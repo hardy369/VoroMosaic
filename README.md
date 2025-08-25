@@ -3,6 +3,7 @@
 **A Custom Voronoi Mosaic Generator Built From Scratch**
 
 Transform your images into stunning geometric mosaics using computational geometry algorithms implemented without external Voronoi libraries.
+<img width="1919" height="796" alt="image" src="https://github.com/user-attachments/assets/6a051e97-494e-4a73-8110-f9ecc90731dc" />
 
 ### Custom Implementation
 - **No External Voronoi Libraries**: Built from scratch using pure computational geometry
